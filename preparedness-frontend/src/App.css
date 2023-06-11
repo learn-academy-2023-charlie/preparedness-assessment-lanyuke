@@ -1,0 +1,42 @@
+.buttons {
+    background-color:#0dcaf0 !important;
+    min-width: 115px !important;
+    min-height: 55px;
+    color:white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.buttonsCon {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+body {
+    background-image: url("./assets/background-image.jpeg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    font-size: 50px;
+}
+
+.input {
+    text-align: center;
+    color: white;
+    font-size:35px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12px;
+    padding-top: 6px;
+}
+
+Input[type="text"] {
+    font-size:18px;
+}
